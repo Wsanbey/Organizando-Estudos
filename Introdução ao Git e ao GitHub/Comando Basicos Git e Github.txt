@@ -1,0 +1,19 @@
+Clonar repositorio:
+git clone https://link/do/repositorio.
+
+Adicionar todos Arquivos criados:
+git add .	ou       git -a	
+
+Mostrar statos:
+git status
+
+Commitar:
+git commit -m TEXTO DO COMMIT
+
+Enviar para a nuvem:
+git push origin main 
+
+***************************************************************************
+Link de Dowlond:
+https://git-scm.com/downloads
+O Git Bash é um terminal extendido para otimizar o usao do Git.
