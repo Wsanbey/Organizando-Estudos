@@ -8,9 +8,9 @@ Para metrificar o meu aprendizado
 
 
 ## Lista de cursos:
-Inicio: 17/11/2022 
-Termino: 06/07/2023 - PREVISTO 
-CURSO DE QUALIFICAÇÃO PROGRAMADOR FULL STACK 
-
+- Inicio: 17/11/2022 <br>
+- Termino: 06/07/2023 - *PREVISTO* <br>
+**CURSO DE QUALIFICAÇÃO PROGRAMADOR FULL STACK** ( *SANAI* ).<br>
+ 
 
 
